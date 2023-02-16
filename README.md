@@ -1,5 +1,5 @@
 # weshop
 
-##Introducción
+## Introducción
 
 Carrito de compras
